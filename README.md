@@ -11,8 +11,6 @@
 - **必要なライブラリ**: `pydicom`, `numpy`, `pillow`, `PySimpleGUI`, `matplotlib`
 - **GPU や特別なハードウェアは不要**。一般的なノート PC で動作します。
 
-`pip install -r requirements.txt` を実行すると、PySimpleGUI の私設リポジトリから正しいビルドが自動で取得されます。
-
 ---
 
 ## 2. 初回セットアップ
@@ -170,7 +168,7 @@ python app.py
 
 ## 10. 開発履歴
 
-- 2025年10月9日：プロジェクト開始
+2025年10月9日：プロジェクト開始
 
 ## 11. ライセンス
 
